@@ -1,0 +1,25 @@
+body {
+  background-color: #EAF6F6;
+  color: grey;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #495C83;
+  border-width: 5px;
+  width: 8%;
+}
+
+table, tr, td, th{
+ border:none;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
